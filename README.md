@@ -59,7 +59,7 @@ This shebang allows the script to be executed directly by telling the system to 
 ### 4. Execute the Python Script without Using the Python Command
 #### Steps:
 ##### 1. Make the script executable:
-`chmod +x taskthree.py`
+`chmod +x script.py`
 ##### 2. Run the script directly without the python command:
 `./taskthree.py`  
 The shebang (`#!/usr/bin/env python3`) enables the script to be executed directly without needing to invoke the `python` command explicitly.
